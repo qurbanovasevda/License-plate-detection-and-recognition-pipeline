@@ -1,0 +1,26 @@
+image,n_gt,n_pred,main_iou,pred_box,ocr_raw,ocr_text,gt_text,correct,cer,status
+images.jpg,1,1,0.692,"(148, 189, 223, 209)",99SM005,99SM005,99SM005,True,0.0,ok
+images10.jpg,1,1,0.819,"(46, 38, 166, 123)",62BE 0381,62BE038,62BE038,True,0.0,ok
+images11.jpg,2,0,0.0,,,,88DJ270,False,1.0,detector_miss
+images12.jpg,2,2,0.747,"(127, 319, 196, 342)",,,90YL736,False,1.0,ocr_error
+images13.jpg,1,1,0.654,"(99, 245, 169, 272)",DL9,DL9,10LM999,False,0.714,ocr_error
+images14.jpg,1,1,0.884,"(68, 65, 137, 88)",720GH846,20GH846,20GH846,True,0.0,ok
+images15.jpg,1,1,0.862,"(89, 25, 147, 42)",TS,TS,99ES190,False,0.857,ocr_error
+images16.jpg,1,1,0.757,"(143, 70, 203, 93)",ICS,ICS,77CD055,False,0.857,ocr_error
+images17.jpg,1,1,0.663,"(60, 47, 145, 62)",99AA522,99AA522,99AA522,True,0.0,ok
+images18.jpg,1,1,0.806,"(72, 47, 161, 66)",399AB017,99AB017,99AB017,True,0.0,ok
+images19.jpg,1,0,0.0,,,,UNREADABLE,,,ocr_skipped
+images2.jpg,1,1,0.674,"(192, 303, 410, 360)",100010,100010,10QO100,False,0.429,ocr_error
+images20.jpg,1,1,0.781,"(95, 210, 154, 228)",E974388,E97A388,90ZH388,False,0.571,ocr_error
+images21.jpg,1,1,0.0,,,,99UD290,False,1.0,detector_miss
+images22.jpg,1,1,0.796,"(246, 310, 319, 354)",9904522,99OA522,99OA522,True,0.0,ok
+images23.jpg,1,1,0.778,"(102, 394, 250, 431)",50DC3671,50DC367,50DC367,True,0.0,ok
+images24.jpg,1,1,0.771,"(209, 166, 332, 203)",50DC3671,50DC367,50DC367,True,0.0,ok
+images25.jpg,1,1,0.802,"(190, 212, 346, 252)",90RB214,90RB214,90RB214,True,0.0,ok
+images3.jpg,1,1,0.84,"(187, 129, 349, 181)",9OLA467,90LA467,90LA467,True,0.0,ok
+images4.jpg,2,2,0.681,"(314, 334, 406, 357)",90XHL7L,90XH171,90XH474,False,0.286,ocr_error
+images5.jpg,3,1,0.833,"(144, 192, 241, 211)",994THIZZ,94TH122,99TH147,False,0.429,ocr_error
+images6.jpg,1,1,0.742,"(326, 356, 421, 398)",90 SD022,90SD022,90SD024,False,0.143,ocr_error
+images7.jpg,1,1,0.61,"(837, 811, 963, 863)",E7D,E7D,77PF906,False,0.857,ocr_error
+images8.jpg,1,1,0.832,"(224, 681, 427, 761)",99GO196,99GO196,99GO196,True,0.0,ok
+images9.jgp.jpg,1,1,0.822,"(18, 568, 205, 660)",90HM 24,90HM24,90HM224,False,0.143,ocr_error

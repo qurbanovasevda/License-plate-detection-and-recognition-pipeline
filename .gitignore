@@ -1,0 +1,6 @@
+venv/
+__pycache__/
+.mypy_cache/
+*.pyc
+reports/debug_*.png
+reports/results.csv
